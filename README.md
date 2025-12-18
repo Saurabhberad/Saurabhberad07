@@ -1,5 +1,5 @@
 # 💫 About Me:
-Java, Python, C++, and full stack web development.<br>Completed internships in Web Development and Data Structures 
+Computer Engineering graduate skilled in Java, Python, C++, and full stack web development. Experienced through internships in Web Development and Data Structures. Worked on projects including Resume Parsing using NLP and a Systematic Farming System. Passionate about problem-solving and developing scalable software solutions.
 
 
 # 💻 Tech Stack:
